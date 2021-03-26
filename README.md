@@ -1,4 +1,4 @@
-# Repositorio de talleres relacionadps al curso de Taller de programación
+# Repositorio de talleres relacionados al curso de Taller de programación
 
 En este repo podrán encontrar diferentes archivos relacionados a talleres. Si saben usar jupyter notebooks, genial, si no, les recomiendo que lo descarguen, así pueden interactuar directamente con el código python en vez de  tener que esperar el html de las anotaciones del taller.
 
