@@ -1,0 +1,1 @@
+# Símbolos de componentes

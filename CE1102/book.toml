@@ -1,0 +1,7 @@
+[book]
+authors = ["josfemova"]
+language = "en"
+multilingual = false
+src = "src"
+theme = "src/theme"
+title = "Taller de programación"

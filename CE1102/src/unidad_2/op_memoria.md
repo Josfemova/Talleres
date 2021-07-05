@@ -1,0 +1,1 @@
+# Operaciones con memoria definida
