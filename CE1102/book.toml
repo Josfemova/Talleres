@@ -5,3 +5,7 @@ multilingual = false
 src = "src"
 theme = "src/theme"
 title = "Taller de programación"
+
+[output.html]
+mathjax-support = true
+default-theme = "Ayu"
